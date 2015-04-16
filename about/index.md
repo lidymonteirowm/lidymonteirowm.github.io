@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About the Jekyll Theme
+title: Sobre Blog Lidy Monteiro
 image:
   feature: abstract-5.jpg
   credit: dargadgetz

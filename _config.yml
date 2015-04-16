@@ -1,6 +1,6 @@
-title:            Site Title
-description:      Describe your website here.
-disqus_shortname: hpstrtheme
+title:            Blog Lidy Monteiro
+description:      Ciência da Computação e outras coisas.
+disqus_shortname: lidymonteiro
 reading_time:     true
 words_per_minute: 200
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
@@ -9,21 +9,21 @@ url:
 
 # Owner/author information
 owner:
-  name:           Your Name
-  avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
-  email:          you@email.com
+  name:           Lidy Monteiro
+  avatar:         lidy_perfil.jpg
+  bio:            "Fundadora do InspirAda, co-fundadora PyLadies e Women Who Code em Recife. Acadêmica de Lic. em Computação UFRPE."
+  email:          
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
-  facebook:       
-  github:         
+  facebook: lidiannemonteiro      
+  github: lidymonteirowm   
   stackexchange:  
-  linkedin:       
+  linkedin: pub/lidiane-de-souza-monteiro/59/936/47a      
   instagram:      
   flickr:         
   tumblr:         
-  # google plus id, include the '+', eg +mmistakes
-  google_plus:    +yourid
+  # google plus id, include the '+', eg +mmistakes / +yourid
+  google_plus:    
 
 # Background image to be tiled on all pages
 background: 
@@ -35,7 +35,7 @@ google_verify:
 bing_verify:         
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    Brasil/Pernambuco
 future:      true
 highlighter: pygments
 markdown:    kramdown
