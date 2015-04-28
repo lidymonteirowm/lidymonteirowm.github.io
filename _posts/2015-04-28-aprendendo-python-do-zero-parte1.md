@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Aprendendo Python do Zero - Parte #1
+title: Aprendendo Python do Zero - Parte 1
 categories: Aprendendo Python do Zero
 description: "Como estou aprendendo Python do Zero"
 modified: 2015-04-28
@@ -11,7 +11,7 @@ image:
 
 ---
 
-##Python zero: Parte #1
+## Como estou aprendendo Python do zero: Parte #1
 
 Vez por outra me perguntam como começar a aprender programação e como aprender Python. A regra geral que a maioria dos programadores te indicarão: "programe, programe, programe!". Sim, isso é verdade. A melhor forma de aprender a programar é programando! Parece uma resposta óbvia, porém muitas vezes o aprendiz iniciante acaba achando que apenas assistindo vídeos, lendo livros e olhando outras pessoas programando elx irá aprender. 
 
@@ -23,7 +23,9 @@ Programar é a mesma coisa. Você precisará praticar bastante e junto com isso 
 
 Voltando ao aprender a andar de bicicleta: Após todo esse choque (quedas, calos e etc) inicial de aprendizado, chegará o momento em que você terá uma fluência mínima para andar de bike e correr sem se desequilibrar. É nesse ponto que você poderá avançar mais e terá condições de fazer uma corrida com pessoas experientes para aprender a andar com uma mão só. 
 
-Em programação não adianta apenas escrever código, é preciso saber o está codificando e o porque está fazendo daquele jeito. Esse nível de conhecimento é adquirido quando aliamos nossa curiosidade (para saber os porques) à prática, codificação constantemente e sempre buscando escrever códigos melhores.  
+Em programação não adianta apenas escrever código, é preciso saber o está codificando e o porque está fazendo daquele jeito. Esse nível de conhecimento é adquirido quando aliamos nossa curiosidade (para saber os porques) à prática, codificação constantemente e sempre buscando escrever códigos melhores. 
+
+# O que e como tenho feito para aprender a programar com  Python 
 
 Neste post vou apresentar como tenho feito para garantir essa fluência mínima para chegar no ponto de fazer corridas melhores. ops! Programas melhores! E como me preparar para aproveitar os desenvolvedores Python que sabem mais do que eu. Não importa seu nível de conhecimento, você sempre pode aproveitar e aprender mais com eles.
 
@@ -37,21 +39,21 @@ Estou estudando usando a versão 3.x do Python por ser a mais atualizada, além 
 
 Nesta primeira fase estou treinando e focando nos conceitos básicos da linguagem Python e da lógica, itens fundamentais para qualquer programador:
 
-##Conhecimento técnico: 
+## Material de estudo: 
 
 - Vídeo aulas: Python para Zumbis (PPZ) [^2]
 - Livro: Python para desenvolvedores - 3ª Edição [^3]
 (A 2ªedição do livro usa Python 2.x e tem tem distribuição gratuita[^4])
 
-##Conhecimento prático: 
+## Prática: 
 - Lista de exercício Python para Zumbis [^2]
 - Lista de exercícios oficial da Python Brasil [^5]
 
-##Como estudar: 
+##Como estudo: 
 
 Dividi em pequenos conteúdos, estudo um por vez. Assim consigo entender e praticar bastante o porque(conceito) e como fazer (prática).  A divisão do conteúdo, em geral, ficou mais ou menos assim:  
 
-Assuntos da 1ª fase: 
+Assuntos da 1ª fase: <br />
 (As próximas fases irei publicar em outro momento, quando eu chegar nela :P )
 - Estrutura sequencial  
 - Estrutura de decisão
