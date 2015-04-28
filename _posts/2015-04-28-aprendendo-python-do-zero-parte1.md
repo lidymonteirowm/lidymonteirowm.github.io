@@ -29,9 +29,9 @@ Voltando ao sobre aprender a andar de bicicleta: Após todo esse choque inicial 
 
 # O que e como tenho feito para aprender a programar com  Python 
 
-Neste post vou apresentar como tenho feito para garantir essa fluência mínima para chegar no ponto de fazer corridas melhores. ops! Programas melhores! E como me preparar para aproveitar xs desenvolvedorxs Python que sabem mais do que eu, não importa seu nível de conhecimento, você sempre pode aproveitar e aprender mais com eles. 
+Neste post vou apresentar como tenho feito para garantir essa fluência mínima para chegar no ponto de fazer corridas melhores. ops! Programas melhores! E como me preparar para aproveitar xs desenvolvedorxs Python que sabem mais do que eu. 
 
-Porém, é importante que você saiba perguntar[^1] e corra atrás de aprender os fundamentos, eles estão acessíveis de forma gratuita(videos, documentação, blogs) e nos livros. Seja o responsável pelo seu aprendizado e busque a comunidade/fóruns[^2] sempre. 
+Não importa seu nível de conhecimento, você sempre pode aproveitar e aprender mais com eles. Porém, é importante que você saiba perguntar[^1] e corra atrás de aprender os fundamentos, eles estão acessíveis de forma gratuita(videos, documentação, blogs) e nos livros. Seja responsável pelo seu aprendizado e busque a comunidade/fóruns[^2] sempre. 
 
 É bem mais interessante para as duas partes quando buscamos o apoio dos desenvolvedorxs para trocar ideias e dúvidas quando fizemos nossa parte, assim podemos aprender melhor e não estaremos perguntando algo que uma googlada responderia satisfatoriamente.
 
@@ -41,9 +41,9 @@ No entanto, estou aprendendo Python do zero como alguém que estivesse tendo pri
 
 Os caminhos que estou seguindo não é uma receita, pode funcionar comigo e não funcionar com você. É puramente algo que refleti bastante sobre como aprendo, o que eu preciso aprender e onde eu quero chegar. Saber algo de programação e autoconhecimento me ajudou muito nesse planejamento. A parte mais dificil é colocar em prática o que planejo (assunto para outro post) e por isso estou me desafiando a fazer. 
 
-Estou estudando usando a versão 3.x do Python por ser a mais atualizada, além disso é recomendada para quem está aprendendo Python e não tem necessidade de usar a versão 2.x. As referências e materiais que estou usando usam essa versão. 
+Estou estudando usando a versão 3.x do Python por ser a mais atualizada, além disso é recomendada para quem está aprendendo Python e não tem necessidade de usar a versão 2.x. As referências e materiais que estou usando usam Python 3.x. 
 
-Nesta primeira fase estou treinando e focando nos conceitos básicos da linguagem Python e da lógica, itens fundamentais para qualquer programador:
+Nesta primeira fase, estou treinando e focando nos conceitos básicos da linguagem Python e da lógica, itens fundamentais para qualquer programador:
 
 ## Material de estudo: 
 
@@ -60,7 +60,8 @@ Nesta primeira fase estou treinando e focando nos conceitos básicos da linguage
 Dividi em pequenos conteúdos, estudo um por vez. Assim consigo entender e praticar bastante o porque(conceito) e como fazer (prática).  A divisão do conteúdo, em geral, ficou mais ou menos assim:  
 
 Assuntos da 1ª fase: <br />
-(As próximas fases irei publicar em outro momento, quando eu chegar nela :P )
+(As próximas fases irei publicar em outro momento, quando eu chegar nela :P ) <br />
+
 - Estrutura sequencial  
 - Estrutura de decisão
 - Estrutura de repetição
@@ -73,8 +74,7 @@ Assuntos da 1ª fase: <br />
 
 Meu guia principal sobre a ordem do que estudar é as aulas do curso Python para Zumbis(PPZ). O livro Python para desenvolvedores é um reforço e complemento ao qual vou adaptando junto com as lista de exercícios do PPZ e da Python Brasil. 
 
-##Como estudo: Segue meu algoritmo 
-(até o momento, vou atualizando quando notar necessário)
+##Como estudo: Meu algoritmo atual (atualizarei quando notar necessário)
 
 - Assisto as vídeo aulas do Curso Python para Zumbis e pratico o que o professor estiver fazendo. 
 - Em seguida leio o assunto no livro e reproduzo os códigos. 
@@ -101,6 +101,6 @@ Meu guia principal sobre a ordem do que estudar é as aulas do curso Python para
 [^6]: <https://ark4n.wordpress.com/python/>
 [^7]: <http://wiki.python.org.br/ListaDeExercicios>
 [^8]: <https://github.com/lidymonteirowm/study-python>
-[^9]: <http://git-scm.com/book/pt-br/v1>
+[^9]: <slides.com/lidianemonteiro/controle-de-versao/>
 [^10]: <http://wiki.python.org.br/EstruturaSequencial>
 
