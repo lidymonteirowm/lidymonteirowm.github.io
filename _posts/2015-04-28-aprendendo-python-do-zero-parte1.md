@@ -23,15 +23,15 @@ Alguém aprende a andar de bicicleta apenas olhando e ouvindo dicas? Não! É pr
 
 Programar é a mesma coisa. Você precisará praticar bastante e junto com isso buscar aprender os fundamentos da programação. Você vai errar, seus códigos não sairão bonitos, vai ter dúvidas, mas tudo isso faz parte do processo de aprender. É algo continuo, até programadores profissionais estão sempre aprendendo. E se você não desistir, você vai continuar aprendendo a programar. 
 
-Voltando ao sobre aprender a andar de bicicleta: Após todo esse choque inicial de aprendizado(quedas, calos e etc), chegará o momento em que você terá uma fluência mínima para andar de bike e correr sem desequilibrar. É nesse ponto que você poderá avançar mais, terá condições de fazer corridas como as pessoas experientes e arriscar aprender a andar com uma mão só. 
+Em programação não adianta apenas escrever código, é preciso saber o está codificando e o porque está fazendo daquele jeito. Esse nível de conhecimento é adquirido quando aliamos nossa curiosidade (para saber os porques) à prática, codificando constantemente e buscando escrever códigos melhores (reescrever seus códigos antigos é uma forma).
 
-Em programação não adianta apenas escrever código, é preciso saber o está codificando e o porque está fazendo daquele jeito. Esse nível de conhecimento é adquirido quando aliamos nossa curiosidade (para saber os porques) à prática, codificação constantemente e sempre buscando escrever códigos melhores (reescrever seus códigos antigos é uma forma). 
+Voltando ao sobre aprender a andar de bicicleta: Após todo esse choque inicial de aprendizado(quedas, calos e etc), chegará o momento em que você terá uma fluência mínima para andar de bike e correr sem desequilibrar. É nesse ponto que você poderá avançar mais, terá condições de fazer corridas como as pessoas experientes e arriscar aprender a andar com uma mão só. Como conseguir isso em programação?  
 
 # O que e como tenho feito para aprender a programar com  Python 
 
 Neste post vou apresentar como tenho feito para garantir essa fluência mínima para chegar no ponto de fazer corridas melhores. ops! Programas melhores! E como me preparar para aproveitar xs desenvolvedorxs Python que sabem mais do que eu, não importa seu nível de conhecimento, você sempre pode aproveitar e aprender mais com eles. 
 
-Porém, é importante que você saiba perguntar[^1] e corra atrás de aprender, os fundamentos e a base estão acessíveis de forma gratuita(videos, documentação, blogs) e nos livros. Seja o responsável pelo seu aprendizado e busque a comunidade/fóruns[^2] sempre. É bem mais interessante para as duas partes quando buscamos o apoio deles para trocar ideias e dúvidas quando fizemos nossa parte, assim podemos aprender mais e melhor.
+Porém, é importante que você saiba perguntar[^1] e corra atrás de aprender os fundamentos, eles estão acessíveis de forma gratuita(videos, documentação, blogs) e nos livros. Seja o responsável pelo seu aprendizado e busque a comunidade/fóruns[^2] sempre. É bem mais interessante para as duas partes quando buscamos o apoio dos desenvolvedorxs para trocar ideias e dúvidas quando fizemos nossa parte, assim podemos aprender melhor e não estaremos perguntando algo que uma googlada responderia satisfatoriamente.
 
 Eu sei o básico da programação, C[^3] foi minha primeira linguagem (não recomendo ela como primeira, apesar de gostar muito dela) e isso me ajuda de alguma forma a aprender de forma mais rápida Python, tendo em vista que muitos comandos são semelhantes ou possuem um conceito parecido. 
 
