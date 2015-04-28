@@ -11,7 +11,7 @@ image:
 
 ---
 
-## Como começar a aprender programação e como aprender Python? 
+# Como começar a aprender programação e como aprender Python? 
 
 Vez por outra me fazem essa pergunta. Minha resposta para ela está contida ao longo deste post. Em geral, programadorxs te indicarão: "programe, programe, programe!". Sim, isso é verdade. A melhor forma de aprender a programar é programando! 
 
@@ -43,8 +43,6 @@ Os caminhos que estou seguindo não é uma receita, pode funcionar comigo e não
 
 Estou estudando usando a versão 3.x do Python por ser a mais atualizada, além disso é recomendada para quem está aprendendo Python e não tem necessidade de usar a versão 2.x. As referências e materiais que estou usando usam Python 3.x. 
 
-Nesta primeira fase, estou treinando e focando nos conceitos básicos da linguagem Python e da lógica, itens fundamentais para qualquer programador:
-
 ## Material de estudo: 
 
 - Vídeo aulas: Python para Zumbis (PPZ) [^4]
@@ -57,7 +55,7 @@ Nesta primeira fase, estou treinando e focando nos conceitos básicos da linguag
 
 ##Como estudo: 
 
-Dividi em pequenos conteúdos, estudo um por vez. Assim consigo entender e praticar bastante o porque(conceito) e como fazer (prática).  A divisão do conteúdo, em geral, ficou mais ou menos assim:  
+Nesta primeira fase, estou treinando e focando nos conceitos básicos da linguagem Python e da lógica, itens fundamentais para qualquer programador. Dividi em pequenos conteúdos, estudo um por vez. Assim consigo entender e praticar bastante o porque(conceito) e como fazer (prática).  A divisão do conteúdo, em geral, ficou mais ou menos assim:  
 
 Assuntos da 1ª fase: <br />
 (As próximas fases irei publicar em outro momento, quando eu chegar nela :P ) <br />
@@ -74,7 +72,7 @@ Assuntos da 1ª fase: <br />
 
 Meu guia principal sobre a ordem do que estudar é as aulas do curso Python para Zumbis(PPZ). O livro Python para desenvolvedores é um reforço e complemento ao qual vou adaptando junto com as lista de exercícios do PPZ e da Python Brasil. 
 
-##Como estudo: Meu algoritmo atual (atualizarei quando notar necessário)
+##Meu algoritmo atual de estudo (atualizarei quando notar necessário)
 
 - Assisto as vídeo aulas do Curso Python para Zumbis e pratico o que o professor estiver fazendo. 
 - Em seguida leio o assunto no livro e reproduzo os códigos. 
