@@ -13,23 +13,27 @@ image:
 
 ## Como começar a aprender programação e como aprender Python? 
 
-Vez por outra me fazem essa pergunta. Minha resposta para ela está contida ao longo deste post. Em geral, programadorxs te indicarão: "programe, programe, programe!". Sim, isso é verdade. A melhor forma de aprender a programar é programando! Parece uma resposta óbvia, porém muitas vezes o aprendiz iniciante acaba achando que apenas assistindo vídeos, lendo livros e olhando outras pessoas programando elx irá aprender. 
+Vez por outra me fazem essa pergunta. Minha resposta para ela está contida ao longo deste post. Em geral, programadorxs te indicarão: "programe, programe, programe!". Sim, isso é verdade. A melhor forma de aprender a programar é programando! 
 
-É importante sim que você leia livros, assista vídeos, conheça as técnicas de outros programadores. Porém, para você aproveitar de forma eficiente esse momento é importante que você aprenda o básico e pratique bastante.  
+Parece uma resposta óbvia, porém muitas vezes o aprendiz iniciante acaba achando que apenas assistindo vídeos, lendo livros e olhando outras pessoas programando elx irá aprender. 
+
+É importante sim que você leia/estude livros da linguagem, assista vídeos, conheça as técnicas de outros programadores. Porém, para você aproveitar de forma eficiente esse momento é importante que você aprenda o básico e pratique bastante.  
 
 Alguém aprende a andar de bicicleta apenas olhando e ouvindo dicas? Não! É preciso pegar as dicas básicas e macetes dos que já aprenderam e colocar em prática andando muito de bicicleta. No processo você vai cair bastante(aconteceu comigo), poderá até fazer uns calos nas mãos ao tentar se equilibrar(aconteceu com minha mãe e comigo as vezes). Faz parte do processo de aprendizagem.  
 
 Programar é a mesma coisa. Você precisará praticar bastante e junto com isso buscar aprender os fundamentos da programação. Você vai errar, seus códigos não sairão bonitos, vai ter dúvidas, mas tudo isso faz parte do processo de aprender. É algo continuo, até programadores profissionais estão sempre aprendendo. E se você não desistir, você vai continuar aprendendo a programar. 
 
-Voltando ao aprender a andar de bicicleta: Após todo esse choque (quedas, calos e etc) inicial de aprendizado, chegará o momento em que você terá uma fluência mínima para andar de bike e correr sem se desequilibrar. É nesse ponto que você poderá avançar mais e terá condições de fazer uma corrida com pessoas experientes para aprender a andar com uma mão só. 
+Voltando ao sobre aprender a andar de bicicleta: Após todo esse choque inicial de aprendizado(quedas, calos e etc), chegará o momento em que você terá uma fluência mínima para andar de bike e correr sem desequilibrar. É nesse ponto que você poderá avançar mais, terá condições de fazer corridas como as pessoas experientes e arriscar aprender a andar com uma mão só. 
 
-Em programação não adianta apenas escrever código, é preciso saber o está codificando e o porque está fazendo daquele jeito. Esse nível de conhecimento é adquirido quando aliamos nossa curiosidade (para saber os porques) à prática, codificação constantemente e sempre buscando escrever códigos melhores. 
+Em programação não adianta apenas escrever código, é preciso saber o está codificando e o porque está fazendo daquele jeito. Esse nível de conhecimento é adquirido quando aliamos nossa curiosidade (para saber os porques) à prática, codificação constantemente e sempre buscando escrever códigos melhores (reescrever seus códigos antigos é uma forma). 
 
 # O que e como tenho feito para aprender a programar com  Python 
 
-Neste post vou apresentar como tenho feito para garantir essa fluência mínima para chegar no ponto de fazer corridas melhores. ops! Programas melhores! E como me preparar para aproveitar os desenvolvedores Python que sabem mais do que eu. Não importa seu nível de conhecimento, você sempre pode aproveitar e aprender mais com eles.
+Neste post vou apresentar como tenho feito para garantir essa fluência mínima para chegar no ponto de fazer corridas melhores. ops! Programas melhores! E como me preparar para aproveitar xs desenvolvedorxs Python que sabem mais do que eu, não importa seu nível de conhecimento, você sempre pode aproveitar e aprender mais com eles. 
 
-Eu sei o básico da programação, C[^1] foi minha primeira linguagem (não recomendo ela como primeira, apesar de gostar muito dela) e isso me ajuda de alguma forma a aprender de forma mais rápida Python, tendo em vista que muitos comandos são semelhantes ou possuem um conceito parecido. 
+Porém, é importante que você saiba perguntar[^1] e corra atrás de aprender, os fundamentos e a base estão acessíveis de forma gratuita(videos, documentação, blogs) e nos livros. Seja o responsável pelo seu aprendizado e busque a comunidade/fóruns[^2] sempre. É bem mais interessante para as duas partes quando buscamos o apoio deles para trocar ideias e dúvidas quando fizemos nossa parte, assim podemos aprender mais e melhor.
+
+Eu sei o básico da programação, C[^3] foi minha primeira linguagem (não recomendo ela como primeira, apesar de gostar muito dela) e isso me ajuda de alguma forma a aprender de forma mais rápida Python, tendo em vista que muitos comandos são semelhantes ou possuem um conceito parecido. 
 
 No entanto, estou aprendendo Python do zero como alguém que estivesse tendo primeiro contato com programação e como eu recomendaria fazer. Ainda que não seja meu primeiro contato, decidi por assim fazer para facilitar adquirir fluência na sintaxe (e com Python isso facilita pois é uma linguagem de escrita simples), aprimorar a prática de lógica e matemática e, por fim, entender Python.  
 
@@ -41,13 +45,13 @@ Nesta primeira fase estou treinando e focando nos conceitos básicos da linguage
 
 ## Material de estudo: 
 
-- Vídeo aulas: Python para Zumbis (PPZ) [^2]
-- Livro: Python para desenvolvedores - 3ª Edição [^3]
-(A 2ªedição do livro usa Python 2.x e tem tem distribuição gratuita[^4])
+- Vídeo aulas: Python para Zumbis (PPZ) [^4]
+- Livro: Python para desenvolvedores - 3ª Edição [^5]
+(A 2ªedição do livro usa Python 2.x e tem tem distribuição gratuita[^6])
 
 ## Prática: 
-- Lista de exercício Python para Zumbis [^2]
-- Lista de exercícios oficial da Python Brasil [^5]
+- Lista de exercício Python para Zumbis [^4]
+- Lista de exercícios oficial da Python Brasil [^7]
 
 ##Como estudo: 
 
@@ -74,25 +78,27 @@ Meu guia principal sobre a ordem do que estudar é as aulas do curso Python para
 - Em seguida leio o assunto no livro e reproduzo os códigos. 
 - Faço duas lista de exercício, uma do PPZ e outra da Python Brasil. 
 - Anoto no papel o que eu achar importante. 
-- Coloco os códigos no Github[^6] e pratico controle de versão[^7]. 
+- Coloco os códigos no Github[^8] e pratico controle de versão[^9]. 
 - Caso em algum passo acima eu identifique algum comando que eu tenha ficado com muita curiosidade de entender ele a fundo, eu faço uma pesquisa rápida na documentação oficial ou posts, caso seja algo complexo eu anoto o comando em um papel e deixo para pesquisar depois com mais calma. Assim eu não perco o foco de entender o geral e partir para a parte prática. 
 - Só estudo outro assunto da lista de conteúdo após concluir esse processo acima descrito.
 - Para revisar a semana anterior faço post para o blog.
 
 ##Exemplo: Guia de estudo da Semana 1: 
 - Vídeos aulas PPZ: Começando com o básico (Aulas: 00, 010, 020, 030, 040, 050, 052, 053, 060)
-- Livro Python para desenvolvedores [^3] - 3ªEdição: Capítulo 1 e 2
-- Lista I de exercícios PPZ [^2]
-- Lista estrutura sequencial[^8] - Lista oficial[^5] da Python Brasil
+- Livro Python para desenvolvedores [^5] - 3ªEdição: Capítulo 1 e 2
+- Lista I de exercícios PPZ [^4]
+- Lista estrutura sequencial[^10] - Lista oficial[^5] da Python Brasil
 
 ##Referências e links citados: 
 
-[^1]: <http://pt.wikipedia.org/wiki/C_(linguagem_de_programação)>
-[^2]: <http://pycursos.com/python-para-zumbis/>
-[^3]: <http://novatec.com.br/livros/pythondesenvolvedores/>
-[^4]: <https://ark4n.wordpress.com/python/>
-[^5]: <http://wiki.python.org.br/ListaDeExercicios>
-[^6]: <https://github.com/lidymonteirowm/study-python>
-[^7]: <http://git-scm.com/book/pt-br/v1>
-[^8]: <http://wiki.python.org.br/EstruturaSequencial>
+[^1]: <http://aprenda-python.blogspot.com.br/2014/02/como-perguntar.html>
+[^2]: <https://groups.google.com/forum/#!forum/python-brasil>
+[^3]: <http://pt.wikipedia.org/wiki/C_(linguagem_de_programação)>
+[^4]: <http://pycursos.com/python-para-zumbis/>
+[^5]: <http://novatec.com.br/livros/pythondesenvolvedores/>
+[^6]: <https://ark4n.wordpress.com/python/>
+[^7]: <http://wiki.python.org.br/ListaDeExercicios>
+[^8]: <https://github.com/lidymonteirowm/study-python>
+[^9]: <http://git-scm.com/book/pt-br/v1>
+[^10]: <http://wiki.python.org.br/EstruturaSequencial>
 
