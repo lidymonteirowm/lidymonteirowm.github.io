@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Aprendendo Python do Zero - Parte 1
+title: Aprendendo Python do Zero - Parte1
 categories: Aprendendo Python do Zero
 description: "Como estou aprendendo Python do Zero"
 modified: 2015-04-28
@@ -11,9 +11,9 @@ image:
 
 ---
 
-## Como estou aprendendo Python do zero: Parte #1
+## Como começar a aprender programação e como aprender Python? 
 
-Vez por outra me perguntam como começar a aprender programação e como aprender Python. A regra geral que a maioria dos programadores te indicarão: "programe, programe, programe!". Sim, isso é verdade. A melhor forma de aprender a programar é programando! Parece uma resposta óbvia, porém muitas vezes o aprendiz iniciante acaba achando que apenas assistindo vídeos, lendo livros e olhando outras pessoas programando elx irá aprender. 
+Vez por outra me fazem essa pergunta. Minha resposta para ela está contida ao longo deste post. Em geral, programadorxs te indicarão: "programe, programe, programe!". Sim, isso é verdade. A melhor forma de aprender a programar é programando! Parece uma resposta óbvia, porém muitas vezes o aprendiz iniciante acaba achando que apenas assistindo vídeos, lendo livros e olhando outras pessoas programando elx irá aprender. 
 
 É importante sim que você leia livros, assista vídeos, conheça as técnicas de outros programadores. Porém, para você aproveitar de forma eficiente esse momento é importante que você aprenda o básico e pratique bastante.  
 
