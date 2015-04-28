@@ -74,6 +74,7 @@ Assuntos da 1ª fase: <br />
 - Recursividade
 - Arquivos
 - Orientação a objetos
+- Projeto
 
 Meu guia principal sobre a ordem do que estudar é as aulas do curso Python para Zumbis(PPZ), permite que se aprenda fundamentos de forma divertida e mesclando diversas áreas de aplicações do Python. O livro Python para desenvolvedores[^5] é um reforço e complemento ao qual vou adaptando junto com as lista de exercícios do PPZ e da Python Brasil. 
 
