@@ -106,7 +106,7 @@ Nesse Dojo, Henrique Bastos resolveu o problema 'Happy Numbers' passo a passo, u
 
 Porém, muitas partes do código eu entendi com o que já sei de Python, outras eu precisei assistir novamente para entender e muitos outros tópicos que não domino ficaram mais claros. Sem falar na lista de referências/materiais que ele colocou na descrição do vídeo! 
 
-Foi essencial para mim assistir o Dojo GamePlay[^12]! Não só para saber do que eu precisava mas também para me determinar a correr atrás do que eu quero!  
+Foi essencial para mim assistir o Dojo GamePlay[^12]! Não só para saber do que eu precisava mais também para me determinar a correr atrás do que eu quero!  
 
 Se eu fosse um número, eu seria um número feliz! Valeu, Henrique Bastos! 
 
